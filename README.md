@@ -4,6 +4,7 @@ From LinkedIn post :  Splitting interfaces and implementations using variadic te
 https://www.linkedin.com/posts/vladimir-mareev_cpp-activity-7322566604876070912-wmZt
 
 Vladimir Mareev
+
 Splitting interfaces and implementations using variadic template inheritance 🤔
 Modern C++ allows us to build highly flexible and controlled class hierarchies.
 One very elegant technique to split access to a concrete implementation class is by combining:
